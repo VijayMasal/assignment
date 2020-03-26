@@ -228,7 +228,7 @@ class _ScheduleVideoCallPageState extends State<ScheduleVideoCallPage> with Tick
                         Container(
                           width: MediaQuery.of(context).size.width,
                           margin: EdgeInsets.only(left: 20,right: 20),
-                          height: MediaQuery.of(context).size.height * 0.28,
+                          height: MediaQuery.of(context).size.height * 0.31,
                           child: Column(
 
                             children: <Widget>[
